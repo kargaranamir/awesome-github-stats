@@ -1,0 +1,11 @@
+# -- IDEA --
+/.idea
+
+## File-based project format:
+*.ipr
+*.iws
+*.iml
+
+
+# -- OS X --
+.DS_Store
