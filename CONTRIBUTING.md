@@ -7,7 +7,7 @@ Ensure your pull request adheres to the following guidelines:
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format: ``[Title](link) [`repo`](repo-link) - Description.``
+- Use the following format: ``[Title](link) [`repo`](repo-link) — Description.``
 - Additions should be added to the relevant category, which is sorted alphabetically.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
