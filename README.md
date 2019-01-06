@@ -21,7 +21,7 @@
 
 - [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better GitHub profiles.
 - [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking on GitHub.
-- [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles.
+- [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing GitHub profiles.
 - [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place.
 
 ## Contribute
