@@ -10,18 +10,19 @@
 
 ### Overall
 
-- [GitHut](https://githut.info) [`repo`](https://github.com/littleark/githut) — Small place to discover languages in GitHub.
+- [GitHut](https://githut.info) [`repo`](https://github.com/littleark/githut) — Small place to discover languages.
 
 ### Repo
 
-- [Git Visualizer](https://veniversum.me/git-visualizer/) [`repo`](https://github.com/veniversum/git-visualizer) — Visualizes directory structure of GitHub repos.
-- [GitHub Visualizer](http://ghv.artzub.com) [`repo`](https://github.com/artzub/GitHubVisualizer) — Visualization GitHub repositories history.
+- [Git History](https://githistory.xyz) [`repo`](https://github.com/pomber/git-history) — Quick browser for the history of any file.
+- [Git Visualizer](https://veniversum.me/git-visualizer/) [`repo`](https://github.com/veniversum/git-visualizer) — Visualizes directory structure of repos.
+- [GitHub Visualizer](http://ghv.artzub.com) [`repo`](https://github.com/artzub/GitHubVisualizer) — Visualization repositories history.
 
 ### User
 
-- [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better GitHub profiles.
-- [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking on GitHub.
-- [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing GitHub profiles.
+- [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better profiles.
+- [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking.
+- [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing profiles.
 - [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place.
 
 ## Contribute
