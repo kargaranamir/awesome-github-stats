@@ -21,6 +21,7 @@
 
 ### User
 
+- [CoderStats](https://coderstats.net/) [`repo`](https://github.com/coderstats/coderstats.net) — Shows stats for users and organizations.
 - [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better profiles.
 - [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking.
 - [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing profiles.
