@@ -16,6 +16,7 @@
 ### Repo
 
 - [Git History](https://githistory.xyz) [`repo`](https://github.com/pomber/git-history) — Quick browser for the history of any file.
+- [GitHub Statistics](https://vesoft-inc.github.io/github-statistics/) [`repo`](https://github.com/vesoft-inc/github-statistics) — An app for displaying repos statistics like Star History, Fork History and more.
 - [Git Visualizer](https://veniversum.me/git-visualizer/) [`repo`](https://github.com/veniversum/git-visualizer) — Visualizes directory structure of repos.
 - [GitHub Visualizer](http://ghv.artzub.com) [`repo`](https://github.com/artzub/GitHubVisualizer) — Visualization repositories history.
 
