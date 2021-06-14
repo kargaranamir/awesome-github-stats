@@ -26,8 +26,6 @@
 - [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better profiles.
 - [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking.
 - [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing profiles.
-<!-- ↓ service is down: https://github.com/karanjthakkar/showmyprs.com/issues/22 -->
-<!-- - [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place. -->
 - [Sourcerer](https://sourcerer.io) [`repo`](https://github.com/sourcerer-io/sourcerer-app) — Makes a visual profile from your GitHub and git repositories, with achievements, fun facts and more.
 
 ## Contribute
@@ -39,3 +37,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Igor Adamenko](https://igoradamenko.com) has waived all copyright and related or neighboring rights to this work.
+
+<!-- ### User -->
+<!-- ↓ service is down: https://github.com/karanjthakkar/showmyprs.com/issues/22 -->
+<!-- - [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place. -->
