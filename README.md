@@ -26,7 +26,8 @@
 - [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better profiles.
 - [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking.
 - [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing profiles.
-- [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place.
+<!-- ↓ service is down: https://github.com/karanjthakkar/showmyprs.com/issues/22 -->
+<!-- - [Show My PR's](https://showmyprs.com) [`repo`](https://github.com/karanjthakkar/showmyprs.com) — See all your Open Source contributions in one place. -->
 - [Sourcerer](https://sourcerer.io) [`repo`](https://github.com/sourcerer-io/sourcerer-app) — Makes a visual profile from your GitHub and git repositories, with achievements, fun facts and more.
 
 ## Contribute
