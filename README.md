@@ -25,6 +25,7 @@
 - [CoderStats](https://coderstats.net/) [`repo`](https://github.com/coderstats/coderstats.net) — Shows stats for users and organizations.
 - [ghuser.io](https://ghuser.io) [`repo`](https://github.com/ghuser-io/ghuser.io) — Better profiles.
 - [Git Awards](http://git-awards.com) [`repo`](https://github.com/vdaubry/github-awards) — Discover your ranking.
+- [Metrics](https://metrics.lecoq.io/) [`repo`](https://github.com/lowlighter/metrics) — An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account.
 - [Profile Summary For GitHub](https://profile-summary-for-github.com) [`repo`](https://github.com/tipsy/profile-summary-for-github) — Tool for visualizing profiles.
 - [Sourcerer](https://sourcerer.io) [`repo`](https://github.com/sourcerer-io/sourcerer-app) — Makes a visual profile from your GitHub and git repositories, with achievements, fun facts and more.
 
